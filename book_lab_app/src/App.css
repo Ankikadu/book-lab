@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  background-color: red;
+}
+.nav{
+  display: grid;
+  grid-template-columns: repeat(4,100px);
+   justify-content: center;
+  height: 70px;
+  background-color: orangered;
+}
